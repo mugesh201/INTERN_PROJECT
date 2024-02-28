@@ -2,13 +2,11 @@
 Objective : Extracting drug information from the drug strips
 
 
-![image](https://github.com/mugesh201/INTERN_PROJECT/assets/140939505/9be838a3-bb6f-4b7a-abd9-2dba1a2b90d6)
-![image](https://github.com/mugesh201/INTERN_PROJECT/assets/140939505/5b6593e6-073f-4fc1-88cd-2e7be699802e)
 
 
-<img align="left" width="100" height="100" src="https://github.com/mugesh201/INTERN_PROJECT/assets/140939505/9be838a3-bb6f-4b7a-abd9-2dba1a2b90d6">
+<img align="left" width="500" height="100" src="https://github.com/mugesh201/INTERN_PROJECT/assets/140939505/9be838a3-bb6f-4b7a-abd9-2dba1a2b90d6">
 
-<img align="left" width="100" height="100" src="https://github.com/mugesh201/INTERN_PROJECT/assets/140939505/5b6593e6-073f-4fc1-88cd-2e7be699802e">
+<img align="right" width="500" height="100" src="https://github.com/mugesh201/INTERN_PROJECT/assets/140939505/5b6593e6-073f-4fc1-88cd-2e7be699802e">
 
 
 
