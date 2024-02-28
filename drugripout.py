@@ -63,28 +63,8 @@ qa_pipeline = pipeline("question-answering", model=model_name)
 
 # Define multiple questions
 questions = [
-    # "what is the name of the tablets 1 ?",
-    # "what is the name of the tablets 2 ?",
-    # "what is the name of the tablets 3 ?",
-    # "What is the name of the tab 4 ?"
-    # "What is the age of the patient ?",
-    # "what is the ID of the patient ?",
-    # "What is the name of the doctor?",
-    # "what is the chief complaints?",
-    # "waht is the advice?",
-    # "what is the disease diagnosed ?",
-    # "what is the date?",
-    # "what is the follow up date ?",
-    # "what is the height of the patient?",
-    # "what is the weight of the patient?",
-    # "what is the bp?",
-    # "what is B M I?",
-    # "what is the name of the hospital",
-    # "what is the address of the hospital",
-    # "what is the timing of the hospital",
-    # "on which day its closed"
-    # "what is the count of tab and cap listed",
-    "Can you list all the tab names?"
+    "what is the name of the tablets ?",
+    "What is the age of the patient ?
 ]
 
 
